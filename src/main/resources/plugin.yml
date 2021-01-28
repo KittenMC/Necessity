@@ -1,0 +1,4 @@
+name: Necessity
+version: 1.0-SNAPSHOT
+main: org.yatopiamc.plugin.Necessity
+api-version: 1.16
